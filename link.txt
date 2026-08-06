@@ -1,5 +1,0 @@
-DATA: https://www.kaggle.com/datasets/nguyentiennhan/vietnam-housing-dataset-2024?fbclid=IwY2xjawH8nPRleHRuA2FlbQIxMAABHSo5h4z5TCEPx_mzc8kPR9PQmB8iqpqsANgLMosUfSEVjdG8Dwfb8xVK1Q_aem_EQ2r_ul-p6BlfnjA9FHQVA
-
-POPULATION: https://danso.info/dan-so-cac-tinh-cua-viet-nam/?fbclid=IwY2xjawH8nStleHRuA2FlbQIxMAABHUMV6ub1N5Npk0FEqbdrsyzV_-j8gpAOKdNLnglLXfgte0O4Cdsv889_Hw_aem_oLVw5RrqokGHF7zXaS06XA
-
-URL: http://housepriceprediction.ap-southeast-1.elasticbeanstalk.com/
