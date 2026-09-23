@@ -6,7 +6,7 @@ An end-to-end **machine learning project** that predicts real estate prices in V
 
 ## Overview
 
-The goal is to estimate the selling price of a property based on its physical attributes and location. Raw listing data alone has weak predictive power for price, so the project augments it with external socio-economic data (population, population density, geographic region) to capture location-driven price effects.
+The goal is to estimate the selling price of a property based on its physical attributes and location. Raw data has weak predictive power for price, so the project augments it with external socio-economic data (population, population density, geographic region) to capture location-driven price effects.
 
 Pipeline:
 
