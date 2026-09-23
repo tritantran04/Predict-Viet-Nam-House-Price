@@ -1,6 +1,6 @@
 # Predict Vietnam House Price
 
-An end-to-end **machine learning project** that predicts real estate prices in Vietnam from listing data (area, location, legal status, etc.), enriched with province-level population and regional statistics. The project covers the full pipeline — data collection, cleaning, exploratory data analysis (EDA), feature engineering, and model training — implemented in a single Jupyter notebook (`main.ipynb`).
+An end-to-end **machine learning project** that predicts real estate prices in Vietnam from listing data (area, location, legal status, etc.), enriched with province-level population and regional statistics. The project covers the full pipeline, data cleaning, exploratory data analysis (EDA), feature engineering, and model training, implemented in a single Jupyter notebook (`main.ipynb`).
 
 > **Disclaimer:** This is an academic course project. Predictions are for learning/demonstration purposes and should not be used for real financial decisions.
 
