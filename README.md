@@ -120,7 +120,6 @@ Predict-Viet-Nam-House-Price/
 - **matplotlib / seaborn / plotly** visualization
 - **scikit-learn** pipelines, encoding, Linear Regression, Extra Trees, `GridSearchCV`, `IterativeImputer`, metrics
 - **scipy** ANOVA, statistical tests
-- **Flask + gunicorn** model serving API
 - **AWS Elastic Beanstalk** deployment
 
 ## Installation
