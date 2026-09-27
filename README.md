@@ -116,12 +116,12 @@ Predict-Viet-Nam-House-Price/
 ## Technologies
 
 - **Python**, **Jupyter Notebook**
-- **pandas / numpy** — data manipulation
-- **matplotlib / seaborn / plotly** — visualization
-- **scikit-learn** — pipelines, encoding, Linear Regression, Extra Trees, `GridSearchCV`, `IterativeImputer`, metrics
-- **scipy** — ANOVA, statistical tests
-- **Flask + gunicorn** — model serving API
-- **AWS Elastic Beanstalk** — deployment
+- **pandas / numpy** data manipulation
+- **matplotlib / seaborn / plotly** visualization
+- **scikit-learn** pipelines, encoding, Linear Regression, Extra Trees, `GridSearchCV`, `IterativeImputer`, metrics
+- **scipy** ANOVA, statistical tests
+- **Flask + gunicorn** model serving API
+- **AWS Elastic Beanstalk** deployment
 
 ## Installation
 
@@ -140,13 +140,12 @@ pip install -r requirements.txt
 
 ### 3. Run the notebook
 
-Open and run `main.ipynb` top to bottom to reproduce data preparation, EDA, and model training. This regenerates `etr_model.pkl`.
+Open and run `main.ipynb`
 
 ## Limitations
 
 - Model performance (R² ≈ 0.52) is moderate, price in this dataset has a largely non-linear and noisy relationship with the available features, and unobserved factors (exact street, building quality, market timing) are not captured.
 - `house_direction` and `balcony_direction` were dropped entirely due to heavy missingness, discarding potentially useful information.
 - The dataset only covers listings available on the source site at the time of collection and may not generalize to other periods or platforms.
-- This is a course project/prototype, not a production-grade valuation tool.
 
 
