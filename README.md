@@ -85,7 +85,7 @@ Flask API + web form
 | Model | R² | MSE | RMSE |
 |---|---|---|---|
 | Linear Regression | 0.393 | 2.909 | 1.706 |
-| **Extra Trees Regressor** | **0.516** | **2.318** | **1.522** |
+| **Extra Trees** | **0.516** | **2.318** | **1.522** |
 
 Extra Trees (a non-linear ensemble model) outperformed Linear Regression. 
 Best hyperparameters found: `etr__max_depth`: 20, `etr__min_samples_leaf`: 4, `etr__min_samples_split`: 10, `etr__n_estimators`: 300.
